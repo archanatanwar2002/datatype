@@ -1,0 +1,7 @@
+C:\Users\jyoti\source\repos\datatype\datatype\bin\Debug\datatype.exe.config
+C:\Users\jyoti\source\repos\datatype\datatype\bin\Debug\datatype.exe
+C:\Users\jyoti\source\repos\datatype\datatype\bin\Debug\datatype.pdb
+C:\Users\jyoti\source\repos\datatype\datatype\obj\Debug\datatype.csproj.AssemblyReference.cache
+C:\Users\jyoti\source\repos\datatype\datatype\obj\Debug\datatype.csproj.CoreCompileInputs.cache
+C:\Users\jyoti\source\repos\datatype\datatype\obj\Debug\datatype.exe
+C:\Users\jyoti\source\repos\datatype\datatype\obj\Debug\datatype.pdb
